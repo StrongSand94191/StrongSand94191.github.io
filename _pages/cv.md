@@ -14,5 +14,6 @@ redirect_from:
 
 ## Skill Summary
 - Proficient in Python and LUA
-- experienced user of GitHub
+- Experienced with Git
 - excellent in mathematical concepts - all As in Algebra II as freshman
+- Proficient with Linux and Windows
